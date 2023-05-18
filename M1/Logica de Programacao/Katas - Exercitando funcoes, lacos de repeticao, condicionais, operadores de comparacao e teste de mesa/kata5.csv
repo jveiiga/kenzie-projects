@@ -1,0 +1,7 @@
+"res","i","i >= -25","i % 2 !== 0","res.push","i--","return res"
+"[]","25","true","true","25","1","undefined"
+"[25]","24","true","false","-","2","undefined"
+"[25]","23","true","true","23","3","undefined"
+"[25,23]","22","true","false","- ","4","undefined"
+"[25,23]","21","true","true","21","5","undefined"
+"[25,23,21]","20","true","false","-","6","undefined"

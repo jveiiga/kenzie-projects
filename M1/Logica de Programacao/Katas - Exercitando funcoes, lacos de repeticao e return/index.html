@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snap Crackle</title>
+</head>
+
+<body>
+    <h1>Abra o console</h1>
+    <h2>Entrega: SnapCrackle</h2>
+    <ul>
+        <li>Escreva uma função chamada snapCrackle que leva um parâmetro: maxValue.</li>
+    </ul>
+    <ul>
+        <li>Esta função deve fazer um loop de 1 até maxValue (inclusive) e montar uma string com as seguintes condições
+            para cada número:</li>
+        <ol>
+            <li>Se o número for ímpar, no lugar dele, concatenar "Snap" no final da string.</li>
+            <li>Se o número for múltiplo de 5, no lugar dele, concatenar "Crackle" no final da string.</li>
+            <li>Se o número for tanto ímpar quanto múltiplo de 5, no lugar dele, concatenar "SnapCrackle" no final da
+                string.</li>
+            <li>Se número não for nem ímpar nem múltiplo de 5, concatenar o próprio número no final da string.</li>
+            <li>
+                Seus itens devem ser separados sempre por vírgula e espaço (veja o exemplo).</li>
+            <li>Esta função deve retornar a string obtida.</li>
+        </ol>
+    </ul>
+    <h2>Exemplo</h2>
+    <h3>snapCrackle(12) deve retornar a string:</h3>
+    <p>Snap, 2, Snap, 4, SnapCrackle, 6, Snap, 8, Snap, Crackle, Snap, 12</p>
+    <h2>Bônus</h2>
+    <h3>Avançando...</h3>
+    <p>Escreva uma segunda função chamada snapCracklePrime que também recebe um parâmetro maxValue com 1 regra
+        adicional:
+
+        Se o número for primo, no lugar dele, concatenar "Prime" no final da string
+
+        snapCracklePrime(15) deve retornar a string:
+
+        Snap, Prime, SnapPrime, 4, SnapCracklePrime, 6, SnapPrime, 8, Snap, Crackle, SnapPrime, 12, SnapPrime, 14,
+        SnapCrackle</p>
+    <script src="index.js"></script>
+</body>
+
+</html>
