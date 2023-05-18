@@ -21,21 +21,15 @@
 
 ## Principais projetos 
   HTML e CSS
-  - 
-  - 
-  - 
-  
-  Lógica de Programação
-  -
-  -
-  -
+  - <p><a target=blank href="https://project-kenzieflix.vercel.app/">Kenzieflix</a></p>
+  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-techshop/">Techshop</a></p>
   
   JavaScript
-  - 
-  - 
-  - 
+  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-catalogeek/">Catálogo Geek</a></p>
+  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Carrinho de compras</a></p>
+  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-marketplace/">Mercado</a></p>
   
-  <h2 align="center"><a target=blank href="https://trello.com/invite/b/zJYEwq3C/ATTI13d3ce4f549cc18a9c70eedb6ac94b6b635A103A/kenzie-schedule">Clique para ver o projeto final desenvolvido.</a></h2>
+  <h2 align="center"><a target=blank href="https://jveiiga.github.io/projeto-final-m1/">Clique para ver o projeto final desenvolvido.</a></h2>
 
 ## Instalação
 
