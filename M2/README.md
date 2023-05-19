@@ -1,4 +1,4 @@
-<h1 align="center">M1</h1>
+<h1 align="center">M2</h1>
 <h4>O primeiro módulo na Kenzie Academy tem como intuito, nos adaptar a nova rotina, com demos diarias utilizando o zoom, atividades e entregas disponibilizadas no Canva o Dev inicia sua jornada, dando os primeiros passos no ecossistema web e finalizando o módulo com um projeto que abrange as principais tecnologias aprendidas.</h4>
 
 ## 📺 Imagem
@@ -13,10 +13,14 @@
 
 ## 💻 Linguagens e tecnologias utilizadas
 <p align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png" alt="html5" width="55" height="58" max-width="100%">
+<img src="https://www.mkwd.net/wp-content/uploads/2019/11/ES6.jpg" alt="ES6" width="55" height="58" max-width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/2245/2245297.png" alt="css3" width="55" height="58" max-width="100%">
-<img src="https://i2.wp.com/developerschool.com.br/edu/wp-content/uploads/2016/11/logica-de-programacao.png?resize=200%2C211" alt="lógica de programação" width="55" height="58" max-width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/8297/8297373.png" alt="json" width="55" height="58" max-width="100%">
 <img src="https://cdn-icons-png.flaticon.com/128/9695/9695720.png" alt="javascript" width="55" height="58" max-width="100%">
+
+<img src="https://icon-library.com/images/website-link-icon/website-link-icon-17.jpg" alt="http" width="55" height="58" max-width="100%">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*-V7Ga9ukcdfqbl8siU-j6w.png" alt="asyncAwait" width="55" height="58" max-width="100%">
 
 ## Principais projetos 
   HTML e CSS
