@@ -5,10 +5,9 @@
 
 <details>
   
-<summary>Clique para ver o conteúdo das sprints do M1</summary>
-  
-![Sprints](https://github.com/community/community/assets/57195630/ab0acbc8-aa2e-43f9-8b61-5209804a93d4)
+<summary>Clique para ver o conteúdo das sprints do M2</summary>
 
+![Printscreen](https://github.com/community/community/assets/57195630/b0dfb0b7-6557-4298-ae1a-c6167ebaab76)
 
 </details> 
 
@@ -39,6 +38,4 @@
     Sobre os Projetos 📺
     
     1 - Vá até o diretório do seu interesse, localize o index.html, dê dois clicks, e o projeto abrirá no seu navegador.
-    2 - Caso queira ver o código desenvolvido, localize o diretório do seu interesse e arraste para o editor de testo de sua preferência, o projeto abrirá e você vai poder navegar entre arquivos e pastas.  
-  
-
+    2 - Caso queira ver o código desenvolvido, localize o diretório do seu interesse e arraste para o editor de testo de sua preferência, o projeto abrirá e você vai poder navegar entre arquivos e pastas.
