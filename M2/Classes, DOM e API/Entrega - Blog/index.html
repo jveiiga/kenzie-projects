@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./src/styles/index.css">
+  <link rel="stylesheet" href="./src/styles/reset.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <title>m2-entrega-blog-m2</title>
+</head>
+<body>
+  <main>
+      <form class="container__form__login">
+
+        <!-- <h1>Entrar</h1> -->
+
+        <input id="emailInput" type="email" name="email" placeholder="Email" />
+
+        <input id="senhaInput" type="password" name="senha" placeholder="Senha" />
+
+        <button id="btnEntrar">Entrar</button>
+
+        <p class="mensagem__cadastre-se"></p>
+
+      </form>
+  
+      <form class="container__form__cadastro">
+
+        <h2>Cadastro</h2>
+
+        <input id="usuarioCadastro" type="text" name="nome" placeholder="Nome do usuário" />
+
+        <input id="emailCadastro" type="email" name="email" placeholder="Email"/>
+
+        <input id="fotoCadastro" type="text" name="foto" placeholder="Foto de perfil" />
+
+        <input id="senhaCadastro" type="password" name="password" placeholder="Senha" />
+
+        <button id="btnCadastrar">Cadastrar</button>
+      </form>
+  </main>
+  <script type="module" src="./src/js/logarUsuario.js"></script>
+  <script type="module" src="./src/js/cadastrarUsuario.js"></script>
+</body>
+</html>

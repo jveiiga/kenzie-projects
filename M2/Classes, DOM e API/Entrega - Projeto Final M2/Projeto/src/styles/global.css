@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body,
+header,
+nav,
+main,
+article,
+figure,
+img,
+figcaption,
+figure,
+form,
+h1,
+h2,
+h3,
+div,
+input,
+label,
+span,
+button,
+p,
+span,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+ul,
+ol, 
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+:root {
+    /* Colors */
+    --color-primary: #2F80ED;
+    --color-secundary: #E5E5E5;
+    --color-white: #ffffff;
+    --color-black: #333333;
+    --color-grey0: #828282;
+    --color-grey1: #212529;
+    --color-grey2: #495057;
+    --color-grey3: #868e96;
+    --color-dark-blue: #003072;
+    --color-grey-opacity-1: rgba(33, 37, 41, 0.5);
+    --color-red: #EB5757;
+
+    /* Size Elements */
+    --button-height-default: 56px;
+    --button-height-extraLarge: 60px;
+    --button-width-default: 276px;
+    --button-width-extraLarge: 650px;
+    
+    --input-height-default: 56px;
+    --input-height-medium: 56px;
+    --input-height-extraLarge: 60px;
+    --input-width-default: 276px;
+    --input-width-medium: 502px;
+    --input-width-extraLarge: 650px;
+
+    --container-width: 1200px;
+
+    /*  Text Sizes */
+    --font-size-12: 12px;
+    --font-size-14: 14px;
+    --font-size-18: 18px;
+    --font-size-20: 20px;
+    /*h1 mobile*/
+    --font-size-36: 36px;
+    /**********/
+    --font-size-48: 48px;
+    --font-line-height-12: 12px;
+    --font-line-height-14: 14px;
+    --font-line-height-16: 16px;
+    --font-line-height-18: 18px;
+    --font-line-height-20: 20px;
+    --font-line-height-36: 36px;
+    --font-line-height-61: 61px;
+
+
+    /*  Text Weight */
+    --font-weight-400: 400;
+    --font-weight-450: 450;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+    --font-weight-900: 900;
+
+    /*  Border Radius */
+    --radius-5: 5px;
+    --radius-15: 15px;
+    --radius-30: 30px;
+    --radius-49: 49px;
+    --radius-50: 50%;
+
+    /* Gap */
+    --gap-5: 5px;
+    --gap-10: 10px;
+    --gap-15: 15px;
+    --gap-20: 20px;
+    --gap-30: 30px;
+    --gap-32: 32px;
+    --gap-40: 40px;
+    --gap-50: 50px;
+    --gap-60: 60px;
+    --gap-70: 70px;
+    --gap-80: 80px;
+    --gap-90: 90px;
+    --gap-100: 100px;
+    --gap-150: 150px;
+}

@@ -1,0 +1,178 @@
+body {
+    background-color: var(--color-secundary);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: var(--color-primary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: var(--gap-60);
+}
+
+.header__logo {
+    width: 120px;
+    height: 90px;
+    margin-left: -20px;
+}
+
+header > a {
+    color: var(--color-white);
+    margin-right: -30px;
+
+}
+
+main {
+    margin: var(--gap-90) 0;
+}
+
+h1 {
+    padding-top:var(--gap-50);
+}
+
+h2 {
+    margin: var(--gap-20) 0;
+}
+
+
+.main__division {
+    width: 100%;
+    height: var(--gap-100);
+    background-color: var(--color-white);
+    padding: 0 var(--gap-10);
+}
+
+.main__division__two {
+    /* padding: 0 var(--gap-10); */
+    margin-top: var(--gap-20);
+}
+
+.main__division__two > h2 {
+    font-size: var(--font-size-16);
+}
+
+.div__salutation {
+    padding: 0 var(--gap-10);
+}
+
+.division__two__user {
+    font-size: var(--font-size-14);
+    padding: 0 var(--gap-10);
+}
+
+select {
+    min-width: 80px;
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    margin-right: var(--gap-5);
+}
+
+button {
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    margin-right: var(--gap-10);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    padding: var(--gap-5);
+    background-color: var(--color-white)    
+}
+
+section {
+    padding: 0 var(--gap-10);
+}
+
+form {
+    display: flex;
+    align-items: end;
+    margin-bottom: var(--gap-10);
+}
+
+.section__todos__funcionários {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.section__card__funcionario {
+    display: flex;
+    flex-direction: column;
+}
+
+.section__funcionarios__naoContratados {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.section__todos__departamentos {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.section__acoes__funcionario {
+    display: flex;
+    align-items: end;
+}
+
+.section__acoes__funcionario__editar {
+    display: flex;
+    align-items: end;
+    flex-wrap: wrap;
+}   
+
+.section__acoes__funcionario__demitir {
+    display: flex;
+    align-items: end;
+}
+
+.section__card__funcionarioSemTrabalho {
+    margin-right: var(--gap-10);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    padding: var(--gap-5);
+    background-color: var(--color-white)    
+}
+
+.section__card__funcionario {
+    margin-right: var(--gap-10);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    padding: var(--gap-5);
+    background-color: var(--color-white)    
+}
+
+.card__departamento {
+    margin-right: var(--gap-10);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    padding: var(--gap-5);
+    background-color: var(--color-white)
+}
+
+.section__empresa {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    width: 240px;
+    height: 25px;
+    background-color: var(--color-white)
+
+}
+
+.section__setor {
+    width: 100px;
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    margin-right: var(--gap-5);
+}
+
+.btnCadastrar {
+    width: 100px;
+}

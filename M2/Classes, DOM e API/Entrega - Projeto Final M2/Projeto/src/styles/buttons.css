@@ -1,0 +1,85 @@
+.button__blue__defaul {
+    height: var(--button-height-default);
+    width: var(--button-width-default);
+    max-width: 100%;
+    font-weight: var(--font-weight-900);
+    font-size: var(--font-size-18);
+    background-color: var(--color-primary);
+    border: none;
+    color: var(--color-secundary);
+    border-radius: var(--radius-49);
+    cursor: pointer;
+    margin-bottom: var(--gap-20);
+
+}
+
+.button__blue__defaul:hover {
+  height: var(--button-height-default);
+  width: var(--button-width-default);
+  max-width: 100%;
+  font-weight: var(--font-weight-900);
+  font-size: var(--font-size-18);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: var(--radius-49);
+  cursor: pointer;
+}
+
+.button__white__default {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: var(--button-height-default);
+  width: var(--button-width-default);
+  max-width: 100%;
+  font-weight: var(--font-weight-900);
+  font-size: var(--font-size-18);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: var(--radius-49);
+  cursor: pointer;
+}
+
+.button__white__default:hover {
+  height: var(--button-height-default);
+  width: var(--button-width-default);
+  max-width: 100%;
+  font-weight: var(--font-weight-900);
+  font-size: var(--font-size-18);
+  background-color: var(--color-primary);
+  border: none;
+  color: var(--color-secundary);
+  border-radius: var(--radius-49);
+  cursor: pointer;
+}
+
+.button__blue__extraLarge {
+  height: var(--button-height-extraLarge);
+  width: var(--button-width-extraLarge);
+  max-width: 100%;
+  font-weight: var(--font-weight-900);
+  font-size: var(--font-size-18);
+  background-color: var(--color-primary);
+  border: none;
+  color: var(--color-secundary);
+  border-radius: var(--radius-49);
+  cursor: pointer;
+  margin-top: var(--gap-30);
+}
+
+.button__blue__extraLarge:hover {
+  height: var(--button-height-default);
+  width: var(--button-width-extraLarge);
+  max-width: 100%;
+  font-weight: var(--font-weight-900);
+  font-size: var(--font-size-18);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: var(--radius-49);
+  cursor: pointer;
+}
+
+

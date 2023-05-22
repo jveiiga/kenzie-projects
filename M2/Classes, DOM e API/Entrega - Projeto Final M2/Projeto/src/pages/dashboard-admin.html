@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/global.css">
+    <link rel="stylesheet" href="../styles/input.css">
+    <link rel="stylesheet" href="../styles/buttons.css">
+    <link rel="stylesheet" href="../styles/input.css">
+    <link rel="stylesheet" href="../pages/dashboard-admin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <header>
+        <span>
+            <img class="header__logo" src="../assets/Kenzie empresaS.png" alt="">
+        </span>
+        <nav>
+            <a href=""></a>
+        </nav>
+        <a id="btnSair" href="../../index.html">Sair</a>
+</header>
+    <main>
+        <div class="main__division">
+            <h1>Dashboard</h1>
+        </div>
+        <div class="main__division__two">
+            <h2 class="div__salutation" >Seja Bem-Vindo(a)</h2>
+                <p class="division__two__user">Admin</p>
+        </div>
+        <section>
+            <h2>Funcionário:</h2>
+
+            <form class="section__acoes__funcionario">
+                <span>
+                    <p>Novo</p>
+                    <select class="select__novo__funcionario"></select>
+                </span>
+                <span>
+                    <p>Empresa</p>
+                    <select class="select__empresa"></select>
+                </span>
+                <button class="btnContratar">Contratar</button>
+            </form>
+
+            <form class="section__acoes__funcionario__editar">
+                <span>
+                    <p>Editar</p>
+                    <select class="select__novo__funcionario__editar">
+                    </select>
+                </span>
+                <span>
+                    <p>Tipo</p>
+                    <select class="select__tipo__trabalho">
+                        <option value="presencial">presencial</option>
+                        <option value="home office">home office</option>
+                        <option value="hibrido">hibrido</option>
+                    </select>
+                </span>
+                <span>
+                    <p>Nível</p>
+                    <select class="select__nivel__profissao">
+                        <option value="estagiario">estagiario</option>
+                        <option value="júnior">júnior</option>
+                        <option value="pleno">pleno</option>
+                        <option value="sênior">sênior</option>
+                    </select>
+                </span>
+                <button class="btnEditar">Editar</button>
+            </form>
+
+            <form class="section__acoes__funcionario__demitir">
+                <span>
+                    <p>Demitir</p>
+                    <select class="select__funcionario__demitir"></select>
+                </span>
+                <button class="btnDemitir">Demitir</button>
+            </form>
+
+            <form>
+                <span>
+                    <p>Deletar</p>
+                    <select class="select__funcionario__deletado"></select>
+                </span>
+                <button class="btnDeletar">Deletar</button>
+            </form>
+
+        </section>
+        <section>
+            <h2>Funcionário não contratados</h2>
+            <ul class="section__funcionarios__naoContratados">
+
+            </ul>
+        </section>
+        <section>
+            <h2>Todos funcionários</h2>
+            <ul class="section__todos__funcionários">
+
+            </ul>
+        </section>
+        <section>
+            <h2>Todos departamentos</h2>
+            <ul class="section__todos__departamentos">
+
+            </ul>
+        </section>
+        <section class="section__empresa">
+            <h2>Cadastrar Empresa:</h2>
+            <p>Setor</p>
+            <select class="section__setor"></select>
+            <span>
+                <label for="">Nome:</label>
+                <input class="section__nome" type="text">
+            </span>
+            <span>
+                <label for="">Horário:</label>
+                <input class="section__hora" type="text">
+            </span>
+            <span>
+                <label for="">Descrição:</label>
+                <input class="section__descricao" type="text">
+            </span>
+            <button class="btnCadastrar">Cadastrar</button>
+        </section>
+    </main>
+    <script type="module" src="../js/Admin.js"></script>
+    <script type="module" src="../js/Navegacao.js"></script>
+    <script type="module" src="../js/Departamentos.js"></script>
+    <script type="module" src="../js/Acoes.js"></script>
+</body>
+
+</html>
+
+

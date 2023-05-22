@@ -1,0 +1,27 @@
+body, main, article, figure, img, figcaption, form, h1, h2, label, input, button, p, span, ul, li {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    background: transparent;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --blue: #6495ED;
+    --red: #FF3F5B;
+    --white: #ECF0F1;
+    --grey: #454D6B;
+    --darkGray: #5C5D8D;
+    --black: #030000;
+  }
+  
+  body {
+    background-color: var(--darkGray);
+    font-family: 'Inter';
+    color: var(--black);
+  }
+  
+  ul, ol {
+    list-style: none;
+  }
