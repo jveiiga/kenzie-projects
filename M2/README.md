@@ -18,10 +18,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/9695/9695720.png" alt="javascript" width="55" height="58" max-width="100%">
 <img src="https://www.mkwd.net/wp-content/uploads/2019/11/ES6.jpg" alt="ES6" width="55" height="58" max-width="100%">
 <img src="https://cdn-icons-png.flaticon.com/512/8297/8297373.png" alt="json" width="55" height="58" max-width="100%">
-
-
 <img src="https://icon-library.com/images/website-link-icon/website-link-icon-17.jpg" alt="http" width="55" height="58" max-width="100%">
-
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*-V7Ga9ukcdfqbl8siU-j6w.png" alt="asyncAwait" width="55" height="58" max-width="100%">
 
 ## Principais projetos 
