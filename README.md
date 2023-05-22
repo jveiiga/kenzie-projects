@@ -31,9 +31,8 @@
   - <p><a target=blank href=""></a></p>
 
   DOM e Flex-Box
-  - <p><a target=blank href="https://github.com/jveiiga/project-login-page"></a>Página de Login</p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-login-page">Página de Login</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-list-product">Lista de Produtos</a></p>
 
   Manipulação de Objetos
   - <p><a target=blank href=""></a></p>
