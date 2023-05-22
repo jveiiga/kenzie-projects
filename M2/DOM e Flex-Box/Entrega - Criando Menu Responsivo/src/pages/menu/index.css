@@ -1,0 +1,171 @@
+nav {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 420;
+    border-bottom: 2px solid var(--color-grey-3);
+    padding: 20px 20px;
+    background-color: white;
+}
+
+h2 {
+    color: var(--color-primary);
+}
+
+.menuItem {
+    display: block;
+    padding: 1rem 1rem;
+    font-size: 0.9rem;
+    color: var(--color-grey-1);
+    text-decoration: none;
+}
+
+.menuItem:hover {
+    background-color: var(--color-grey-5);
+    color: var(--color-secondary);
+}
+
+.menuItem:hover {
+    text-decoration: underline;
+}
+
+.hamburger {
+    position: fixed;
+    z-index: 100;
+    top: 1rem;
+    right: 1rem;
+    padding: 4px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.closeIcon {
+    display: none;
+    color: var(--color-grey-2);
+}
+
+#closeIcon {
+    display: none;
+}
+
+.menuIcon {
+    color: var(--color-grey-2);
+}
+
+.menu {
+    position: fixed;
+    transform: translateY(-100%);
+    transition: 1s ease;
+    top: 1rem;
+    left: 0.6rem;
+    right: 5rem;
+    bottom: 0;
+    z-index: 99;
+    background: transparent;
+    color: white;
+    list-style: none;
+    padding-top: 4rem;
+}
+
+.showMenu {
+    transform: translateY(0);
+}
+
+input {
+    position: absolute;
+    display: flex;
+    width: 300px;
+    max-width: 100%;
+    padding-left: 2rem;
+    margin-left: 1rem;
+    width: 288px;
+    height: 38px;
+    border: none;
+    border-radius: var(--radius-1);
+    background-color: var(--color-grey-4);
+}
+
+input::placeholder {
+    color: var(--color-grey-1);
+}
+
+.busca {
+    position: relative;
+    background-color: transparent;
+    width: 20px;
+    left: 24px;
+    bottom: 10px;
+}
+
+.imagem {
+    width: 300px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    gap: var(--gap-1);
+    padding-left: 1rem;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: var(--color-primary);
+}
+
+p {
+    color: var(--color-secondary);
+    font-weight: var(--font-weight-1);
+}
+
+@media (min-width: 1023px) {
+    nav {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        height: 100px;
+    }
+
+    h2 {
+        margin-top: 15px;
+    }
+
+    .menu {
+        position: unset;
+        display: flex;
+        align-items: center;
+        width: 850px;
+        max-width: 100%;
+        margin-top: 70px;
+    }
+
+    .menuItem {
+        width: 90px;
+        margin-top: -60px;
+    }
+
+    .hamburger {
+        display: none;
+    }
+
+    input {
+        position: inherit;
+        margin: -70px 20px 0 180px;
+    }
+
+    .busca {
+        display: none;
+    }
+
+    .imagem {
+        position: relative;
+        display: flex;
+        align-items: center;
+        margin-bottom: 80px;
+    }
+
+    p {
+        display: none;
+    }
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/reset.css">
+    <link rel="stylesheet" href="../styles/styleBase.css">
+    <title>Entrega Lista de Clientes</title>
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li><a href="../../index.html">Listar Clientes</a></li>
+            <li><a href=>Criar Clientes</a></li>
+            <li><a href="./editar.html">Editar Clientes</a></li>
+            <li><a href="./deletar.html">Deletar Clientes</a></li>
+        </ul>
+    </header>
+
+    <form>
+        <h2>Cadastre um cliente</h2>
+
+        <h3>Dados pessoais</h3>
+
+        <input id="clienteNome" type="text" name="nome" placeholder="digite seu nome" />
+
+        <input id="clienteEmail" type="text" name="email" placeholder="digite sua email" />
+
+        <input id="clienteIdade" type="number" name="idade" placeholder="digite sua idade" />
+
+        <input id="clienteCpf" type="text" name="cpf" placeholder="digite seu cpf" />
+
+        <input id="clienteSexo" type="text" name="sexo" placeholder="digite seu sexo" />
+
+
+        <h3>Endereço</h3>
+
+        <input id="clienteCep" type="number" name="cep" placeholder="digite seu cep" />
+
+        <input id="clienteRua" type="text" name="rua" placeholder="digite sua rua" />
+
+        <input id="clienteNumero" type="number" name="numero" placeholder="digite o numero" />
+
+        <input id="clienteBairro" type="text" name="bairro" placeholder="digite seu bairro" />
+
+        <input id="clienteCidade" type="text" name="cidade" placeholder="digite sua cidade" />
+
+        <input id="clienteEstado" type="text" name="estado" placeholder="digite seu estado" />
+
+        <button id="btnCadastrar">Cadastrar</button>
+    </form>
+    <script type="module" src="../js/cadastroCliente.js"></script>
+</body>
+
+</html>

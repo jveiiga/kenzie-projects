@@ -1,0 +1,216 @@
+header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 0 30px;
+    justify-content: space-between;
+    background-color: var(--color-grey1);
+    margin-bottom: 100px;
+}
+
+.header__logo {
+    position: relative;
+    left:var(--gap-4);
+    width: 119px;
+    height: 14px;
+    color: var(--color-WhiteFixed);
+}
+
+.header__login {
+    width: 53px;
+    height: 32px;
+    padding: 8px;
+    color: var(--color-WhiteFixed);
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-3);
+    line-height: var(--font-line-height-text2);
+    border-radius: var(--radius-2);
+    background-color: var(--color-grey2);
+}
+
+.header__registro {
+    height: 16px;
+    padding: 8px;
+    color: var(--color-WhiteFixed);
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-3);
+    line-height: var(--font-line-height-text2);
+}
+
+main {
+    max-width: 461px;
+    margin: 0 auto;
+    padding: 40px var(--gap-9);
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+}
+
+h1 {
+    font-weight: var(--font-weight-1);
+    font-size: var(--font-title-1);
+    line-height: var(--font-line-height-title1);
+}
+
+.main__inputEmail {
+    height: var(--input-height-default);
+    width: 100%;
+    margin-top: var(--gap-9);
+    padding-left: var(--gap-9); 
+    color: var(--color-grey0);
+    border: 2px solid #DEE2E6;
+    border-radius: var(--radius-2);
+}
+
+.main__inputEmail:focus {
+    border: 2px solid var(--color-brand-1);
+}
+
+.main__inputPassword {
+    height: var(--input-height-default);
+    width: 100%;
+    margin-top: var(--gap-9);
+    padding-left: var(--gap-9);
+    color: var(--color-grey0);
+    border: 2px solid #DEE2E6;
+    border-radius: var(--radius-2);
+}
+
+.main__inputPassword:focus {
+    border: 2px solid var(--color-brand-1);
+}
+
+.main__buttonLogin {
+    height: var(--button-height-default);
+    width: 100%;
+    padding: 0px, var(--gap-5), 0px, var(--gap-5);
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-3);
+    background-color: var(--color-brand-1);
+    border: none;
+    color: var(--color-WhiteFixed);
+    border-radius: var(--radius-2);
+    cursor: pointer;
+}
+
+.main__link {
+    font-weight: 400;
+    font-size: var(--gap-5);
+    margin: var(--gap-9) 0;
+    line-height: 16px;text-align: center;
+    color: #000000;
+}
+
+.main__buttonRegistro {
+    height: var(--button-height-default);
+    width: 100%;
+    padding: 0px, var(--gap-5), 0px, var(--gap-5);
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-2);
+    background-color: var(--color-WhiteFixed);
+    border: 2px solid #0a0c0d;
+    color: var(--color-grey0);
+    border-radius: var(--radius-2);
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.06);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: appearFromTopLeft 1s;
+}
+
+.disappear {
+    animation: disappearTopLeft 1s;
+}
+
+.modal__mensagem {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 188px;
+    width:90%;
+    max-width: 600px;
+    padding: var(--gap-4);
+    border-radius: var(--radius-1);
+    background-color: var(--color-brand-1);
+}
+
+.modal__mensagem > h2 {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-1);
+    line-height: 19px;
+    color: var(--color-WhiteFixed);
+}
+
+.modal__mensagem > p {
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-2);
+    line-height: var(--font-line-height-title2);
+    color: var(--color-WhiteFixed);
+}
+
+.modal__flex__btn {
+    display: flex;
+    align-self: end;
+}
+
+.modal__btn {
+    width: 76px;
+    height: 38px;
+    border-radius: 4px;
+    background-color: var(--color-WhiteFixed);
+    padding: 0px, var(--gap-5), 0px, var(--gap-5);
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-2);
+    line-height: var(--font-line-height-text3);
+    color: #212529;
+}
+
+/*Animações*/
+
+@keyframes appearFromTopLeft {
+    0% {
+        opacity: 0;
+        transform: translate(-30%, -30%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0, 0);
+
+    }
+}
+
+@keyframes disappearTopLeft {
+    0% {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+    
+    100% {
+        opacity: 0;
+        transform: translate(-30%, -30%);
+    
+    }
+}
+
+@media (min-width: 1024px) {
+
+    header {
+        padding: 0 100px;
+    }
+}

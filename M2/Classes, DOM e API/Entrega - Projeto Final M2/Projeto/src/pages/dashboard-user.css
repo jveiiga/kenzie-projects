@@ -1,0 +1,64 @@
+body {
+    background-color: var(--color-secundary);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: var(--color-primary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: var(--gap-60);
+}
+
+.header__logo {
+    width: 120px;
+    height: var(--gap-90);
+}
+
+header > a {
+    color: var(--color-white);
+    margin-right: -30px;
+
+}
+
+main {
+    margin-top: var(--gap-90);
+}
+
+.main__division {
+    width: 100%;
+    height: var(--gap-100);
+    background-color: var(--color-white);
+    padding: 0 var(--gap-10);
+}
+
+h1 {
+    padding-top:var(--gap-50);
+}
+
+.main__division__two {
+    padding: 0 var(--gap-10);
+    margin-top: var(--gap-20);
+}
+
+.main__division__two > h2 {
+    font-size: var(--font-size-16);
+}
+
+.main__department__user {
+    padding: 0 var(--gap-10);
+    margin-top: var(--gap-20);
+
+}
+
+.mensagem {
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-5);
+    width: 130px;
+    font-size: var(--font-size-20);
+}
+
+

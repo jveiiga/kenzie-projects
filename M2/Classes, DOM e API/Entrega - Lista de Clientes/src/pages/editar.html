@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../styles/reset.css">
+  <link rel="stylesheet" href="../styles/styleBase.css">
+  <title>Entrega Lista de Clientes</title>
+</head>
+
+<body>
+  <header>
+    <ul class=".container">
+      <li><a href="../../index.html">Listar Clientes</a></li>
+      <li><a href="./cadastrar.html">Criar Clientes</a></li>
+      <li><a href="">Editar Clientes</a></li>
+      <li><a href="./deletar.html">Deletar Clientes</a></li>
+    </ul>
+  </header>
+
+  <form>
+
+    <label for="cliente">Escolha o cliente que quer editar</label>
+
+    <select id="selecionandoCliente" name="cliente"></select>
+
+    <button id="buscarClienteBtn">Buscar Cliente</button>
+
+  </form>
+
+  <form>
+    <h2>Editar cliente</h2>
+
+    <h3>Dados pessoais</h3>
+
+    <input id="clienteEditNome" type="text" name="nome" placeholder="digite seu nome" />
+
+    <input id="clienteEditEmail" type="text" name="email" placeholder="digite sua email" />
+
+    <input id="clienteEditIdade" type="text" name="idade" placeholder="digite sua idade" />
+
+    <input id="clienteEditCpf" type="text" name="cpf" placeholder="digite seu cpf" />
+
+    <input id="clienteEditSexo" type="text" name="sexo" placeholder="digite seu sexo" />
+
+
+    <h3>Endereço</h3>
+
+    <input id="clienteEditCep" type="text" name="cep" placeholder="digite seu cep" />
+
+    <input id="clienteEditRua" type="text" name="rua" placeholder="digite sua rua" />
+
+    <input id="clienteEditNumero" type="text" name="numero" placeholder="digite o numero" />
+
+    <input id="clienteEditBairro" type="text" name="bairro" placeholder="digite seu bairro" />
+
+    <input id="clienteEditCidade" type="text" name="cidade" placeholder="digite sua cidade" />
+
+    <input id="clienteEditEstado" type="text" name="estado" placeholder="digite seu estado" />
+
+    <button id="clienteEditBtn">Atualizar Dados</button>
+  </form>
+  <script type="module" src="../js/editarCliente.js"></script>
+</body>
+
+</html>

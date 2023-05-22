@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../styles/global.css">
+    <link rel="stylesheet" href="../../styles/buttons.css">
+    <link rel="stylesheet" href="../../styles/inputs.css">
+    <link rel="stylesheet" href="./cadastro.css">
+    <title>Cadastro</title>
+</head>
+<body>
+    <header>
+        <span class="header__logo">TechPosters</span>
+        <nav>
+            <button class="header__login">Login</button>
+            <button class="header__registro">Registro</button>
+        </nav>
+    </header>
+    <main>
+        <div class="main__div">
+            <h1>Cadastro</h1>
+            <a class="button-black-litle" href="../../../index.html">Voltar</a>
+        </div>
+        <input id="inputNome" class="main__inputNome" type="text" placeholder="Seu nome">
+        <input id="inputEmail" class="main__inputEmail"type="email" placeholder="Seu e-mail">
+        <input id="inputSenha" class="main__inputSenha" type="password" placeholder="Sua senha">
+        <input id="inputTrabalho" class="main__inputTrabalho" type="text" placeholder="Qual o seu trabalho?">
+        <input id="inputImagem" class="main__inputImagem" type="text" placeholder="URL da imagem de perfil">
+        <button id="btnRegistro" class="main__buttonRegistrar">Registrar</button>
+        <p class="main__link">
+            <a href="../../../index.html">Já possui login?</a>
+        </p>
+        <button class="main__buttonPaginaLogin">Ir para página de login</button>
+    </main>
+    <script type="module" src="../../js/cadastro.js"></script>
+</body>
+</html>

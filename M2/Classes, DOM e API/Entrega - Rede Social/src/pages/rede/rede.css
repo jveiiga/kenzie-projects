@@ -1,0 +1,269 @@
+header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: var(--gap-13);
+    padding: 0 var(--gap-10);
+    justify-content: space-between;
+    background-color: var(--color-grey1);
+}
+
+.header__logo {
+    position: relative;
+    /* top:4px; */
+    left: var(--gap-10);
+    width: 119px;
+    height: 14px;
+    color: var(--color-WhiteFixed);
+}
+
+.header__sair {
+    height: 26px;
+    padding-right: var(--gap-9);
+    color: var(--color-WhiteFixed);
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-3);
+    line-height: var(--font-line-height-text2);
+    cursor: pointer;
+}
+
+main {
+    margin: 51px var(--gap-10);
+    padding: 40px var(--gap-9);
+}
+
+.main__infoUsuario {
+    display: flex;
+    margin: 126px 0 var(--gap-9) 0;
+    max-width: 713px;
+
+}
+
+.main__usuarioImg {
+    width: 52px;
+    height: 52px;
+    border-radius: var(--radius-4);
+}
+
+.main__usuarioNome {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-title-2);
+    line-height: var(--font-line-height-title2);
+    color: var(--color-grey1);
+    padding: 0 var(--gap-10);
+}
+
+.main__usuarioProfissao {
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-2);
+    line-height: var(--font-line-height-text2);
+    color: var(--color-grey2);
+    padding: 0 var(--gap-10);
+}
+
+.main__usuarioSeguidores {
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-3);
+    line-height: var(--font-line-height-text2);
+    color: var(--color-grey1);
+}
+
+.main__inputTitulo {
+    width: 100%;
+    padding-left: var(--gap-9);
+    height: var(--input-height-default);
+    background: var(--color-WhiteFixed);
+    border: 2px solid var(--color-grey4);
+    border-radius: var(--radius-2);
+}
+
+.main__inputTitulo::placeholder {
+    color: var(--color-grey3);
+}
+
+.main__inputTitulo:hover {
+    border: 2px solid var(--color-brand-1)
+}
+
+.main__inputPost {
+    width: 100%;
+    padding-left: var(--gap-9);
+    min-height: 130px;
+    margin: var(--gap-9) 0;
+    height: var(--input-height-default);
+    background: var(--color-WhiteFixed);
+    border: 2px solid var(--color-grey4);
+    border-radius: var(--radius-2);
+}
+
+.main__inputPost:hover {
+    border: 2px solid var(--color-brand-1)
+}
+
+.main__inputPost::placeholder {
+    color: var(--color-grey3);
+}
+
+.main__btnPost {
+    width: 69px;
+    height: var(--button-height-default);
+    background: #dee2e6;
+    border: 2px solid var(--color-grey4);
+    border-radius: var(--radius-2);
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-2);
+    line-height: var(--font-line-height-text3);
+    color: var(--color-grey3);
+}
+
+.main__btnPost:hover {
+    width: 69px;
+    height: var(--button-height-default);
+    background-color: var(--color-brand-1);
+    border-radius: var(--radius-2);
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-text-2);
+    border: none;
+    color: var(--color-WhiteFixed);
+    cursor: pointer;
+}
+
+.main__conteudoPost {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-width: 713px;
+}
+
+.main__tituloSugestao {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-title-2);
+    line-height: var(--font-line-height-title2);
+    color: var(--color-grey1);
+    margin: var(--gap-12) 0;
+}
+
+.main__carrossel {
+   
+    display: flex;
+    overflow-x: scroll;
+}
+
+.main__conteudo {
+    margin-right: var(--gap-13);
+}
+
+.main__lista {
+    margin-top: var(--gap-12);
+}
+
+.main__conteudoSugestao {
+    display: flex;
+    align-items: center;
+}
+
+.main__usuarioImg {
+    width: 52px;
+    height: 52px;
+    margin: 0 var(--gap-10) var(--gap-10) 0;
+    border-radius: var(--radius-4);
+}
+
+.main__nomeUsuario--sugestao {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-title-2);
+    line-height: var(--font-line-height-title2);
+    color: var(--color-grey1);
+    margin-bottom: 5px;
+}
+
+
+.main__profissaoUsuario--sugestao {
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-2);
+    line-height: var(--font-line-height-text2);
+    color: var(--color-grey2);
+}
+
+.main__tituloPosts {
+    margin: 51px var(--gap-10);
+}
+
+.main__conteudoPosts--titulo {
+    font-weight: var(--font-weight-1);
+    font-size: var(--font-title-1);
+    line-height: var(--font-line-height-title1);
+    color: var(--color-grey1);
+    margin: var(--gap-9) 0;
+}
+
+.main__conteudoPosts-texto {
+    font-weight: var(--font-weight-3);
+    font-size: var(--font-text-1);
+    line-height: var(--font-line-height-text1);
+    color: var(--color-grey2);
+}
+
+.main__btn--like {
+    display: flex;
+    align-items: center;
+    margin-top: var(--gap-9);
+}
+
+.main__hearth {
+    margin-right: var( --gap-4);
+    cursor: pointer;
+}
+
+.li__posts {
+    margin-top: 50px;
+}
+
+@media (min-width: 1024px) {
+
+    header {
+        padding: 0 100px;
+    }
+
+    main {
+        margin: 51px 100px;
+    }
+
+    .main__carrossel {
+        display: flex;
+        flex-direction: column;
+        max-width: 521px;
+        height: 287px;
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+
+    .main__flex__section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .main__conteudoPost {
+        width: 800px;
+        max-width: 100%;
+        margin-right: var(--gap-9);
+    }
+
+    .main__tituloSugestao {
+        margin: 0  0 var(--gap-9) 0; 
+    }
+
+    .main__conteudo {
+        display: flex;
+        justify-content: space-between;
+        width: 421px;
+        margin-bottom: var(--gap-10);
+    }
+
+    .main__section__sugestao {
+        display: flex;
+        flex-direction: column;
+    }
+}
