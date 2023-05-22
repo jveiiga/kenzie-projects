@@ -1,0 +1,15 @@
+GET https://www.w3.org/People/Berners-Lee/
+###
+GET https://rickandmortyapi.com/api/character/2
+###
+GET https://rickandmortyapi.com/api/location
+###
+GET https://rickandmortyapi.com/api/episode
+###
+GET https://pokeapi.co/api/v2/
+###
+GET https://pokeapi.co/api/v2/pokemon
+###
+GET https://pokeapi.co/api/v2/pokemon/pikachu
+
+
