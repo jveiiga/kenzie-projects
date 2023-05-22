@@ -24,21 +24,47 @@
   
 
 ## Principais projetos 
-  HTML e CSS
-  - <p><a target=blank href="https://project-kenzieflix.vercel.app/">Kenzieflix</a></p>
-  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-techshop/">Techshop</a></p>
   
-  JavaScript
-  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-catalogeek/">Catálogo Geek</a></p>
-  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Carrinho de compras</a></p>
-  - <p><a target=blank href="https://jveiiga.github.io/project-kenzie-marketplace/">Mercado</a></p>
+  Lógica de Programação
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  DOM e Flex-Box
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  Manipulação de Objetos
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  POO
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  Classes, DOM, e API
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  HTTP
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
+
+  API
+  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href=""></a></p>
   
-  <h2 align="center"><a target=blank href="https://jveiiga.github.io/projeto-final-m1/">Clique para ver o projeto final desenvolvido.</a></h2>
+  <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
 
 ## Instalação
 
     - Clonar repositorio
-    $ git clone https://github.com/jveiiga/kenzie-projects.git
+    $ git clone 
 
     Sobre os Projetos 📺
     
