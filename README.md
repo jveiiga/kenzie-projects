@@ -25,42 +25,42 @@
 
 ## Principais projetos 
   
-  Lógica de Programação
+  ### Lógica de Programação
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
 
-  DOM e Flex-Box
+  ### DOM e Flex-Box
   - <p><a target=blank href="https://github.com/jveiiga/project-login-page">Página de Login</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-list-product">Lista de Produtos</a></p>
 
 
-  Manipulação de Objetos
+  ### Manipulação de Objetos
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
 
-  POO
+  ### POO
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
 
-  Classes, DOM, e API
+  ### Classes, DOM, e API
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
 
-  HTTP
+  ### HTTP
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
 
-  API
+  ### API
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
