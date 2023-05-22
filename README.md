@@ -37,10 +37,7 @@
 
 
   ### Manipulação de Objetos
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  
+  - <p><a target=blank href="https://github.com/jveiiga/project-manipulating-objects">Descontrução de objetos com métodos e spread operator.</a></p>
 
   ### POO
   - <p><a target=blank href=""></a></p>
