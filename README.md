@@ -29,34 +29,41 @@
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
+  
 
   DOM e Flex-Box
   - <p><a target=blank href="https://github.com/jveiiga/project-login-page">Página de Login</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-list-product">Lista de Produtos</a></p>
 
+
   Manipulação de Objetos
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
+  
 
   POO
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
+
   Classes, DOM, e API
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
+  
 
   HTTP
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
+  
 
   API
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
+  
   
   <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
 
