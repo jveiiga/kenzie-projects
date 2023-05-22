@@ -41,8 +41,10 @@
 
   ### POO
   - <p><a target=blank href="https://github.com/jveiiga/project-bank-with-classes">Banco com Classes</a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-modeling-anything-as-an-object">Modelando Qualquer Coisa como Objeto</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-oregon-trail-sintaxe-classe">Oregon Trail Sintaxe Classe</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-villager">Aldeão</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-oregon-trail-heranca">Oregon Trail Herança</a></p>
 
 
   ### Classes, DOM, e API
