@@ -26,9 +26,8 @@
 ## Principais projetos 
   
   ### Lógica de Programação
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-array-students-grading">Lista de nótas dos alunos</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-reproducing-array-methods">Reproduzindo Métodos de Array</a></p>
   
 
   ### DOM e Flex-Box
