@@ -51,17 +51,14 @@
   - <p><a target=blank href="https://github.com/jveiiga/project-kenzie-news">Kenzie News</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-customer-list">Lista de Clientes</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-social-network">Rede Social</a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/projeto-final-m2"></a>Projeto Final M2</p>
   
 
   ### HTTP
   - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
   
 
   ### API
-  - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   
   
