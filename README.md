@@ -47,8 +47,10 @@
 
 
   ### Classes, DOM, e API
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-blog">Blog</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-kenzie-news">Kenzie News</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-customer-list">Lista de Clientes</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-social-network">Rede Social</a></p>
   - <p><a target=blank href=""></a></p>
   
 
