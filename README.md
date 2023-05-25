@@ -38,6 +38,11 @@
   ### Manipulação de Objetos
   - <p><a target=blank href="https://github.com/jveiiga/project-manipulating-objects">Descontrução de objetos com métodos e spread operator.</a></p>
 
+
+  ### HTTP
+  - <p><a target=blank href="https://github.com/jveiiga/project-http-request/tree/main/resquest">HTTP</a></p>
+  
+
   ### POO
   - <p><a target=blank href="https://github.com/jveiiga/project-bank-with-classes">Banco com Classes</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-modeling-anything-as-an-object">Modelando Qualquer Coisa como Objeto</a></p>
@@ -53,16 +58,8 @@
   - <p><a target=blank href="https://github.com/jveiiga/project-social-network">Rede Social</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/projeto-final-m2">Projeto Final M2</a></p>
   
-
-  ### HTTP
-  - <p><a target=blank href=""></a></p>
-  
-
-  ### API
-  - <p><a target=blank href=""></a></p>
-  
-  
-  <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
+ 
+  <h2 align="center"><a target=blank href="https://jveiiga.github.io/projeto-final-m2/index.html">Clique para ver o projeto final desenvolvido.</a></h2>
 
 ## Instalação
 
