@@ -1,0 +1,14 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  color: #333333;
+}
+
+.toast {
+  width: 100px;
+}
+
+.react-icons {
+  vertical-align: middle;
+}
+
