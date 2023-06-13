@@ -1,63 +1,56 @@
-<h1 align="center">M2</h1>
-<h4>O segundo módulo na Kenzie Academy tem como intuito, nos aprimorar em JavaScript, com demos diarias utilizando o zoom, atividades e entregas disponibilizadas no Canva, aprendemos sobre CSS Responsivo, animações, ES6, POO, JSON, HTTP, JavaScript Assíncrono, classes em Js, JWT, LocalStotage, API, Eventos, Métodos e Boas práticas. Tudo isso, dando seguimento nos aprendizados do M1 e finalizando o módulo com um projeto que abrange as principais tecnologias aprendidas.</h4>
+<h1 align="center">M3</h1>
+<h4>O terceiro módulo na Kenzie Academy tem como intuito, nos aprimorar em React, com demos diarias utilizando o zoom, atividades e entregas disponibilizadas no Canva, aprendemos sobre Bundler, Gerenciador de pacotes, Componentização, Renderização condicional, styled-components, Axios, Hooks, useState, useEffect, Router, Context API, Typescript, Testes e Boas práticas. Tudo isso, dando seguimento nos aprendizados do M2 e finalizando o módulo com um projeto que abrange as principais tecnologias aprendidas.</h4>
 
 ## 📺 Imagem
 
 <details>
   
-<summary>Clique para ver o conteúdo das sprints do M2</summary>
+<summary>Clique para ver o conteúdo das sprints do M3</summary>
 
-![Printscreen](https://github.com/community/community/assets/57195630/483c2745-a6ff-4352-8470-1814fa6f784d)
+![Printscreen](https://github.com/community/community/assets/57195630/79967b99-1979-4ddd-840b-28b91bce0ddb)
 
 </details> 
 
 ## 💻 Linguagens e tecnologias utilizadas
 <p align="left"> 
-<img src="https://cdn-icons-png.flaticon.com/512/2245/2245297.png" alt="css3" width="55" height="58" max-width="100%">
-<img src="https://www.gran-turismo.com/gtsport/decal/8296268239507324928_1.png" alt="flexBox" width="105" height="58" max-width="100%">
-<img src="https://www.mkwd.net/wp-content/uploads/2019/11/ES6.jpg" alt="ES6" width="65" height="58" max-width="100%">
-<img src="https://cdn-icons-png.flaticon.com/512/8297/8297373.png" alt="json" width="55" height="58" max-width="100%">
-<img src="https://cdn-icons-png.flaticon.com/128/9695/9695720.png" alt="javascript" width="55" height="58" max-width="100%">
-<img src="https://icon-library.com/images/website-link-icon/website-link-icon-17.jpg" alt="http" width="55" height="58" max-width="100%">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*-V7Ga9ukcdfqbl8siU-j6w.png" alt="asyncAwait" width="155" height="58" max-width="100%">
-<img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" alt="JWT" width="105" height="58" max-width="100%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="65" height="58" max-width="100%">
+<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="75" height="58" max-width="100%">
+<img src="https://styled-components.com/logo.png" alt="styled-components" width="75" height="58" max-width="100%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/2560px-Axios_%28computer_library%29_logo.svg.png" alt="Axios" width="175" height="58" max-width="100%">
+<img src="https://cdn-media-1.freecodecamp.org/images/1*TKvlTeNqtkp1s-eVB5Hrvg@2x.png" alt="React Router Dom" width="105" height="58" max-width="100%">
+<img src="https://user-images.githubusercontent.com/33676/111815108-4695b900-88a9-11eb-8b61-3c45b40d4df6.png" alt="Contexto" width="65" height="58" max-width="100%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LkL103Qa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png" alt="Typescript" width="95" height="58" max-width="100%">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*_E_IgTRs7ZiTYjNE_1OrRA.png" alt="Json-server" width="105" height="58" max-width="100%">
+<img src="https://miro.medium.com/v2/resize:fit:300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="Testes TDD Jest" width="75" height="58" max-width="100%">
   
 
 ## Principais projetos 
   
-  Lógica de Programação
+  Renderização Condicional e useState
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
-  DOM e Flex-Box
+  Consumo de API e useEffect
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
-  Manipulação de Objetos
+  React Router DOM
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
-  POO
+  ContextAPI
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
-  Classes, DOM, e API
+  Typescript
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
 
-  HTTP
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-
-  API
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
   
   <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
 
