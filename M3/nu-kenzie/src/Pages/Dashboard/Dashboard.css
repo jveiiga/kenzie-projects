@@ -1,0 +1,19 @@
+@media (min-width: 900px) { 
+    .App-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1023px) {
+    
+    .App-container {
+        display: flex;
+        justify-content: center;
+        margin-left: 70px;
+    }
+
+    .container-form {
+        margin-left: 80px;
+    }
+}

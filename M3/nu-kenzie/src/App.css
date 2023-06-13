@@ -1,0 +1,173 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:150px 0;
+  background-color: var(--color-white);
+}
+
+@media (min-width: 900px) { 
+  .App {
+    min-height: 100vh;
+    justify-content: center;
+    margin: 160px 0;
+
+  }
+}
+
+@media (min-width: 1023px) {
+    .App {
+      display: flex;
+      flex-direction: inherit;
+      align-items: flex-start;
+      justify-content: center;
+    }
+}
+
+body,
+header,
+nav,
+main,
+article,
+figure,
+img,
+figcaption,
+figure,
+form,
+h1,
+h2,
+h3,
+div,
+input,
+label,
+span,
+button,
+p,
+span,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+ul,
+ol, 
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+:root {
+    /* Colors */
+    --color-primary: #FD377E;
+    --color-secundary: #E34981;  
+    --color-white: #03B898;
+    --color-black-2: #343A40;
+    --color-black: #333333;
+    --color-grey-4: #212529;
+    --color-grey-3:  #868E96;
+    --color-grey-2: #E9ECEF;    
+    --color-grey-1: #F8F9FA;    
+    --color-white: #FFFFFF;
+    --color-grey-opacity-1: rgba(33, 37, 41, 0.5);
+    --color-red: #EB5757;
+
+    /* Size Elements */
+    --button-medium-heigth: 48px;
+    --button-medium-width: 314px;
+    
+    --button-litle-heigth: 40px;
+    --button-litle-width: 87px;
+    
+    --button-pink-litle-width: 69px;
+    
+    --button-trash-heigth: 15px;
+    --button-trash-width: 15px;
+    
+    --input-number-height: 48px;
+    --input-number-width: 128px;
+    --input-text-height: 48px;
+    --input-text-width: 325px;
+
+    --container-width: 1200px;
+
+    /*  Text Sizes */
+    --Title1: 28px;
+    --Title2: 24px;
+    --Title3: 20px;
+    --Headline: 16px;
+    --Title4: 14px;
+    --Body: 12px;
+    /*h1 mobile*/
+    --font-size-36: 36px;
+    /**********/
+    --font-size-12: 12px;
+    --font-size-48: 48px;
+    --font-line-height-12: 12px;
+    --font-line-height-14: 14px;
+    --font-line-height-16: 16px;
+    --font-line-height-18: 18px;
+    --font-line-height-22: 22px;
+    --font-line-height-36: 36px;
+    --font-line-height-48: 48px;
+    --font-line-height-61: 61px;
+
+
+    /*  Text Weight */
+    --font-weight-400: 400;
+    --font-weight-450: 450;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+    --font-weight-800: 800;
+    --font-weight-900: 900;
+
+    /*  Border Radius */
+    --radius-2: 2.46px;
+    --radius-4: 4px;
+    --radius-5: 5px;
+    --radius-8: 8px;
+    --radius-15: 15px;
+    --radius-30: 30px;
+    --radius-49: 49px;
+    --radius-50: 50%;
+
+    /* Gap */
+    --gap-5: 5px;
+    --gap-10: 10px;
+    --gap-15: 15px;
+    --gap-20: 20px;
+    --gap-30: 30px;
+    --gap-32: 32px;
+    --gap-40: 40px;
+    --gap-50: 50px;
+    --gap-60: 60px;
+    --gap-70: 70px;
+    --gap-80: 80px;
+    --gap-90: 90px;
+    --gap-100: 100px;
+    --gap-150: 150px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
