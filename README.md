@@ -26,8 +26,10 @@
 
 ## Principais projetos 
   
-  Renderização Condicional, Componentização, props, useState e useContext 
+  Renderização Condicional, props, useState 
   - <p><a target=blank href="https://github.com/jveiiga/project-nu-kenzie">Nu Kenzie</a></p>
+
+  Componentização, useContext
   - <p><a target=blank href="https://github.com/jveiiga/project-counter">Contador</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-todo-list">Lista de Tarefas</a></p>
   
