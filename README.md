@@ -28,8 +28,8 @@
   
   Renderização Condicional e useState
   - <p><a target=blank href="https://github.com/jveiiga/project-counter">Contador</a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-todo-list">Lista de Tarefas</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-nu-kenzie">Nu Kenzie</a></p>
 
   Consumo de API e useEffect
   - <p><a target=blank href=""></a></p>
