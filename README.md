@@ -29,15 +29,13 @@
   Renderização Condicional, props, useState 
   - <p><a target=blank href="https://github.com/jveiiga/project-nu-kenzie">Nu Kenzie</a></p>
 
-  Componentização, useContext
+  Consumo de API, useEffect e styled-components
+  - <p><a target=blank href="https://github.com/jveiiga/project-burguer-kenzie">Burguer Kenzie</a></p>
+
+Componentização, useContext
   - <p><a target=blank href="https://github.com/jveiiga/project-counter">Contador</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-todo-list">Lista de Tarefas</a></p>
   
-  Consumo de API e useEffect
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-
   React Router DOM
   - <p><a target=blank href=""></a></p>
   - <p><a target=blank href=""></a></p>
