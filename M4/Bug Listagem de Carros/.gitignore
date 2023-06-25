@@ -1,0 +1,6 @@
+# Arquivos
+.DS_Store
+
+node_modules
+
+*lock*
