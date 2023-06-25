@@ -40,7 +40,7 @@ Componentização, useContext
   - <p><a target=blank href="https://github.com/jveiiga/project-hub-kenzie/tree/main">Kenzie Hub</a></p>
 
   
-  <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
+  <h2 align="center"><a target=blank href="https://github.com/ecompany-friendly">Clique para ver o projeto final desenvolvido.</a></h2>
 
 ## Instalação
 
