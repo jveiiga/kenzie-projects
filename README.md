@@ -36,20 +36,8 @@ Componentização, useContext
   - <p><a target=blank href="https://github.com/jveiiga/project-counter">Contador</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-todo-list">Lista de Tarefas</a></p>
   
-  React Router DOM
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-
-  ContextAPI
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-
-  Typescript
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  React Router, ContextAPI e TypeScript
+  - <p><a target=blank href="https://github.com/jveiiga/project-hub-kenzie/tree/main">Kenzie Hub</a></p>
 
   
   <h2 align="center"><a target=blank href="">Clique para ver o projeto final desenvolvido.</a></h2>
