@@ -20,9 +20,12 @@
 <img src="" alt="Typescript" width="105" height="58" max-width="100%">
 <img src="" alt="bycript" width="65" height="58" max-width="100%">
 <img src="" alt="jwt" width="95" height="58" max-width="100%">
+<img src="" alt="Jest" width="95" height="58" max-width="100%">
+<img src="" alt="SuperTest" width="95" height="58" max-width="100%">
+<img src="" alt="babel" width="95" height="58" max-width="100%">
+<img src="" alt="nodemon" width="95" height="58" max-width="100%">
+<img src="" alt="cross-env" width="95" height="58" max-width="100%">
 <img src="" alt="" width="95" height="58" max-width="100%">
-<img src="" alt="" width="95" height="58" max-width="100%">
-  
 
 ## Principais projetos 
   
