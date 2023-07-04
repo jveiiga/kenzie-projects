@@ -29,15 +29,14 @@
 
 ## Principais projetos 
   
-    NodeJS e ExpressJS
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  NodeJS e ExpressJS
+  - <p><a target=blank href="https://github.com/jveiiga/project-bug-list-cars">Bug Listagen de Carros</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-bug-crud-user">Bug CRUD de Usuário</a></p>
   - <p><a target=blank href="https://github.com/jveiiga/project-crud-plus-admin-permission">Express: CRUD de usuário + permissão de administrador</a></p>
 
-  Consumo de API e useEffect
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
-  - <p><a target=blank href=""></a></p>
+  SQL e PostgreSQL
+  - <p><a target=blank href="https://github.com/jveiiga/project-queries-used-by-sql">Principais Consultas SQL</a></p>
+  - <p><a target=blank href="https://github.com/jveiiga/project-SQLanches">SQLanches</a></p>
 
   React Router DOM
   - <p><a target=blank href=""></a></p>
